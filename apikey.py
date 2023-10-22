@@ -1,1 +1,3 @@
-apikey = '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'
+# apikey = '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'
+
+apikey = 'your-api-key'
